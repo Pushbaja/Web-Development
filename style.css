@@ -1,0 +1,159 @@
+.header {
+  height: 300px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: blue;
+}
+.h {
+  height: 250px;
+  width: 1000px;
+}
+.logo {
+  float: left;
+}
+.name {
+  height: 250px;
+  width: 700px;
+color:yellow;
+}
+.n {
+  position: relative;
+  left: 230px;
+  top: 100px;
+  font-size: 60px;
+}
+.menu {
+  height: 50px;
+  width: 1000px;
+  float: left;
+  background-color: black;
+}
+.menu ul li {
+  display: inline;
+  padding: 45px;
+}
+.menu ul li a {
+  text-decoration: none;
+  font-size: 24px;
+color:white;
+}
+.menu ul li a:hover{
+background-color:blue;
+}
+.footer {
+  height: 100px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #000000;
+}
+.f {
+  position: relative;
+  left: 400px;
+  top: 40px;
+  color: white;
+}
+.home {
+  height: 600px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: antiquewhite;
+}
+.image1 {
+  float: left;
+}
+.image2 {
+  float: right;
+}
+.heading {
+  height: 100px;
+  width: 1000px;
+  float: left;
+  text-align: center;
+  font-size: 20px;
+}
+.paragraph {
+  height: 100px;
+  width: 1000px;
+  float: left;
+  text-align: justify;
+  font-size: 22px;
+}
+.about {
+  height: 600px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: antiquewhite;
+background-size:1000px 600px;
+}
+.img1 {
+  float: left;
+}
+.img2 {
+  float: right;
+}
+.img3 {
+  float: left;
+}
+.img4 {
+  float: right;
+}
+.img5 {
+  float: left;
+}
+.img6 {
+  float: right;
+}
+.service {
+  height: 600px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: antiquewhite;
+}
+.service table tr:nth-child(1) {
+  background-color: aliceblue;
+}
+.service table tr:hover {
+  background-color: #000000;
+color:white;
+}
+.contact {
+  height: 600px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: antiquewhite;
+}
+.map {
+  float: left;
+}
+.imagemap {
+  float: right;
+}
+.address {
+  height: 300px;
+  width: 500px;
+  float: left;
+  text-align: center;
+font-size:30px;
+}
+.details {
+  height: 300px;
+  width: 500px;
+  float: right;
+  text-align: center;
+font-size:30px;
+}
+.register {
+  height: 600px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: antiquewhite;
+  text-align: center;
+font-size:30px;
+}
